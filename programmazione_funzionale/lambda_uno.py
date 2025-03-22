@@ -30,3 +30,4 @@ filtro_generico(lambda x: x.endswith("a"))
 #modifica
 #sodfjveorfvc
 #pklasjdbviefslòksldfp klngmfdòlfk ldpofòldk
+#djjjsjsjsjs

@@ -24,3 +24,9 @@ def filtro_generico(filtro): # il parametro filtro sarà una funzione
 # filtro_terminale()
 filtro_generico(lambda x: len(x) > 9)
 filtro_generico(lambda x: x.endswith("a"))
+
+# prova commit
+#provamodifica
+#modifica
+#sodfjveorfvc
+#pklasjdbviefslòksldfp klngmfdòlfk ldpofòldk
